@@ -8,4 +8,4 @@
 
 Hi, this is Rui. Currently doing infra eng @justworkshr.
 
-Happy to connect with you and chat about anything I know.
+Happy to connect with you and chat about anything I know
